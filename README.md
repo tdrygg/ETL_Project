@@ -20,7 +20,7 @@ The type of final production database to load the data into (relational or non-r
 The final tables or collections that will be used in the production database.
 
 
-You will be required to submit a final technical report with the above information and steps required to reproduce your ETL process.
+Final technical report with the above information and steps required to reproduce your ETL process.
 
 ## Project Report
 At the end of the week, your team will submit a Final Report that describes the following:
